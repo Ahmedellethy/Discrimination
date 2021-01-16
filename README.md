@@ -8,3 +8,4 @@ National Research Institute of Astronomy and Geophysics NRIAG, 11421 Helwan Egyp
 Machine Discriminator (MD) is a Matlab script to discriminate between small earthquakes and local quarry blasts using committee machine.
 
 
+This code reads the seismic event parameters catalog and calls the trained ANNs and self-organized maps to discriminate between seismic events.
